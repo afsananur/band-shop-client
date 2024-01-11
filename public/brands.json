@@ -1,0 +1,41 @@
+[
+    {   
+        "id":1,
+        "brand": "Maybelline",
+        "cover": "https://i.ibb.co/q0XzGnt/1.png"
+       
+      },
+      {
+        "id":2,
+        "brand": "Fenty Beauty",
+        "cover": "https://i.ibb.co/jwV4Hx2/2.png"
+       
+      },
+      {
+        "id":3,
+        "brand": "Mac ",
+        "cover": "https://i.ibb.co/s5fx8DF/4.png"
+       
+      },
+      {
+        "id":4,
+        "brand": "Lakme ",
+        "cover": "https://i.ibb.co/cFzwxT3/6.png"
+       
+      },
+      {
+        "id":5,
+        "brand": "  Revlon",
+        "cover": "https://i.ibb.co/KWY6RSD/3.png"
+      
+      }
+,
+{
+    "id":6,
+    "brand": " L’Oréal Paris",
+    "cover": "https://i.ibb.co/Yy5CtWw/8.png"
+   
+  }
+
+      
+]
